@@ -1,1 +1,0 @@
-# csa0472-operating-systems
