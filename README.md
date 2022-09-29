@@ -14,3 +14,4 @@ b. Assume that no process waits on I/O devices.
 12. With linked allocation, each file is a linked list of disk blocks; the disk blocks may be scattered anywhere on the disk. The directory contains a pointer to the first and last blocks of the file.  Each block contains a pointer to the next block. Design a C program to simulate the file allocation strategy.
 13. Construct a C program to simulate the First Come First Served disk scheduling algorithm.  
 14. Construct a C program to simulate Round Robin scheduling algorithm with C.
+15. Design a C program to simulate SCAN disk scheduling algorithm.
